@@ -6,7 +6,7 @@ A primeira invenção que se tem registro é o Ábaco (3000 a.C.). O ábaco, é 
 
 <div align="center">
     <p><b>Fígura 1</b> - Ábaco</p>
-    <img src="image-15.png" height=40% width=40%/> 
+    <img src="image-15.png"/> 
     <div><b>Fonte:</b> (Sousa, Roney - 2019)</div>
 </div>
 <br/>
@@ -15,21 +15,21 @@ Máquinas de Cálculo Mecânicas (séculos XVII-XIX). Blaise Pascal (1642) e Got
 
 <div align="center">
     <p><b>Fígura 2</b> - Máquinas de Cálculo Mecânicas de Blaise Pascal</p>
-    <img src="image-16.png" height=60% width=60%/> 
+    <img src="image-16.png"/> 
     <div><b>Fonte:</b> ( Gugik, Gabriel - 2019)</div>
 </div>
 <br/>
 
 <div align="center">
     <p><b>Fígura 3</b> - Máquinas de Cálculo Mecânicas de Leibniz</p>
-    <img src="image-17.png" height=60% width=60%/> 
+    <img src="image-17.png"/> 
     <div><b>Fonte:</b> ( Gugik, Gabriel - 2019)</div>
 </div>
 <br/>
 
 <div align="center">
     <p><b>Fígura 4</b> - Tabuladora  de Herman Hollerith</p>
-    <img src="image-19.png" height=40% width=40%/> 
+    <img src="image-19.png"/> 
     <div><b>Fonte:</b> ( Gugik, Gabriel - 2019)</div>
 </div>
 <br/>
