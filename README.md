@@ -29,14 +29,14 @@ Máquinas de Cálculo Mecânicas (séculos XVII-XIX). Blaise Pascal (1642) e Got
 
 <div align="center">
     <p><b>Fígura 4</b> - Tabuladora  de Herman Hollerith</p>
-    <img src="image-19.png" height=60% width=60%/> 
+    <img src="image-19.png" height=40% width=40%/> 
     <div><b>Fonte:</b> ( Gugik, Gabriel - 2019)</div>
 </div>
 <br/>
 
 <div align="center">
     <p><b>Fígura 5</b> - Máquinas analítica de Charles Babbage</p>
-    <img src="image-18.png" height=85% width=60%/> 
+    <img src="image-18.png"/> 
     <div><b>Fonte:</b> ( Gugik, Gabriel - 2019)</div>
 </div>
 <br/>
@@ -63,8 +63,19 @@ Essa é uma visão geral simplificada, e a história da computação é repleta 
 
 Os computadores gigantes que ocupavam salas inteiras e necessitavam do auxílio de humanos nasceram lá pela década de 1950. Nessas primeiras máquinas, as tarefas eram realizadas por técnicos, os quais ditavam o que seria realizado através do próprio hardware.
 
-![Alt text](image.png)
-(Fonte da imagem: Reprodução/Wikipedia)
+<div align="center">
+    <p><b>Fígura 6</b> - Eniac</p>
+    <img src="image.png" height=90% width=90%/> 
+    <div><b>Fonte:</b> (Wikipedia)</div>
+</div>
+<br/>
+
+<div align="center">
+    <p><b>Fígura 7</b> - Eniac</p>
+    <img src="image-20.png" height=90% width=90%/> 
+    <div><b>Fonte:</b> (Wikipedia)</div>
+</div>
+<br/>
 
 Um funcionário era contratado especialmente para ativar e desativar chaves, as quais serviam para indicar se um componente devia ficar ligado ou desligado. Ao desligar uma chave, por exemplo, a informação corria por metros ou quilômetros de fio e acendia uma luz, indicando que determinada função estava desativada.
 
@@ -121,8 +132,12 @@ Indisponível
 Código fechado
 Como você bem deve imaginar, desde os tempos mais primórdios a Microsoft trabalha apenas com softwares. No início, a empresa fez uma parceria com a IBM para vender seu sistema junto com os PCs da empresa.
 
-![Alt text](image-1.png)
-(Fonte da imagem: Reprodução/Studiosnewage)
+<div align="center">
+    <p><b>Fígura 7</b> - Eniac</p>
+    <img src="image-1.png" height=90% width=90%/> 
+    <div><b>Fonte:</b> (Wikipedia)</div>
+</div>
+<br/>
 
 O software foi muito bem aceito e recebeu modificações ao longo dos anos. Já na versão 2.0, o MS-DOS suportava HDs de 10 MB e estrutura de arquivos “em árvore”. Na próxima etapa, a Microsoft adicionou o FAT16 e suporte para redes. Assim foi o começo do que hoje é o Windows.
 
