@@ -6,7 +6,7 @@ A primeira invenção que se tem registro é o Ábaco (3000 a.C.). O ábaco, é 
 
 <div align="center">
     <p><b>Fígura 1</b> - Ábaco</p>
-    <img src="image-15.png"/> 
+    <img src="img/image-15.png"/> 
     <div><b>Fonte:</b> (Sousa, Roney - 2019)</div>
 </div>
 <br/>
@@ -15,28 +15,28 @@ Máquinas de Cálculo Mecânicas (séculos XVII-XIX). Blaise Pascal (1642) e Got
 
 <div align="center">
     <p><b>Fígura 2</b> - Máquinas de Cálculo Mecânicas de Blaise Pascal</p>
-    <img src="image-16.png" height=60% width=60%/> 
+    <img src="img/image-16.png" height=60% width=60%/> 
     <div><b>Fonte:</b> ( Gugik, Gabriel - 2019)</div>
 </div>
 <br/>
 
 <div align="center">
     <p><b>Fígura 3</b> - Máquinas de Cálculo Mecânicas de Leibniz</p>
-    <img src="image-17.png" height=60% width=60%/> 
+    <img src="img/image-17.png" height=60% width=60%/> 
     <div><b>Fonte:</b> ( Gugik, Gabriel - 2019)</div>
 </div>
 <br/>
 
 <div align="center">
     <p><b>Fígura 4</b> - Tabuladora  de Herman Hollerith</p>
-    <img src="image-19.png"  height=60% width=60%/> 
+    <img src="img/image-19.png"  height=60% width=60%/> 
     <div><b>Fonte:</b> (Richards, Mark)</div>
 </div>
 <br/>
 
 <div align="center">
     <p><b>Fígura 5</b> - Máquinas analítica de Charles Babbage</p>
-    <img src="image-18.png" height=60% width=60%/> 
+    <img src="img/image-18.png" height=60% width=60%/> 
     <div><b>Fonte:</b> ( Gugik, Gabriel - 2019)</div>
 </div>
 <br/>
@@ -72,7 +72,7 @@ Os computadores gigantes que ocupavam salas inteiras e necessitavam do auxílio 
 
 <div align="center">
     <p><b>Fígura 7</b> - Eniac sendo programado por mulheres</p>
-    <img src="image-20.png" height=60% width=60%/> 
+    <img src="img/image-20.png" height=60% width=60%/> 
     <div><b>Fonte:</b> (Wikipedia)</div>
 </div>
 <br/>
@@ -134,7 +134,7 @@ Como você bem deve imaginar, desde os tempos mais primórdios a Microsoft traba
 
 <div align="center">
     <p><b>Fígura 8</b> - Eniac</p>
-    <img src="image-1.png"height=60% width=60%/> 
+    <img src="img/image-1.png"height=60% width=60%/> 
     <div><b>Fonte:</b> (Wikipedia)</div>
 </div>
 <br/>
@@ -181,15 +181,8 @@ Código fechado
 A Apple estava dominando, mas a Amiga entrou de cabeça nos negócios com seu sistema proprietário. Os computadores com AmigaOS inclusive chegaram ao Brasil. Eles eram equipados com processadores Motorola e eram bem diferentes de tudo o que existia.
 
 <div align="center">
-    <p><b>Fígura 9</b> - MS-DOS / IBM PC DOS</p>
-    <img src="image-1.png" height=60% width=60%/> 
-    <div><b>Fonte:</b> (Wikipedia)</div>
-</div>
-<br/>
-
-<div align="center">
     <p><b>Fígura 10</b> - AmigaOS</p>
-    <img src="image-2.png" height=60% width=60%/> 
+    <img src="img/image-2.png" height=60% width=60%/> 
     <div><b>Fonte:</b> (AmigaOS)</div>
 </div>
 <br/>
@@ -245,7 +238,7 @@ Depois que saiu da Apple, Steve Jobs fundou a NeXT. Sua nova empresa desenvolveu
 
 <div align="center">
     <p><b>Fígura 11</b> - NeXTSTEP</p>
-    <img src="image-3.png" height=60% width=60%/> 
+    <img src="img/image-3.png" height=60% width=60%/> 
     <div><b>Fonte:</b> (Wikipedia)</div>
 </div>
 <br/>
@@ -264,7 +257,7 @@ De início, o sistema de Linus Torvalds aproveitou bibliotecas e aplicações do
 
 <div align="center">
     <p><b>Fígura 12</b> - Linux</p>
-    <img src="image-4.png" height=60% width=60%/> 
+    <img src="img/image-4.png" height=60% width=60%/> 
     <div><b>Fonte:</b> (Larry Ewing, Simon Budig, Anja Gerwinski)</div>
 </div>
 <br/>
@@ -331,7 +324,7 @@ O Windows 95 foi tão importante que acabou definindo alguns padrões. A forma c
 
 <div align="center">
     <p><b>Fígura 13</b> - Windows 95</p>
-    <img src="image-5.png" height=60% width=60%/> 
+    <img src="img/image-5.png" height=60% width=60%/> 
     <div><b>Fonte:</b> (Wikipedia)</div>
 </div>
 <br/>
@@ -364,7 +357,7 @@ Apesar de ser desconhecido por muitos, o Yellow Dog Linux é um sistema de códi
 
 <div align="center">
     <p><b>Fígura 14</b> - Yellow Dog Linux</p>
-    <img src="image-6.png" height=60% width=60%/> 
+    <img src="img/image-6.png" height=60% width=60%/> 
     <div><b>Fonte:</b> (Wikipedia)</div>
 </div>
 <br/>
@@ -392,7 +385,7 @@ Devido ao desastre do Windows ME, a Microsoft caprichou no Windows XP. Este foi,
 
 <div align="center">
     <p><b>Fígura 15</b> - Windows XP</p>
-    <img src="image-7.png" height=60% width=60%/> 
+    <img src="img/image-7.png" height=60% width=60%/> 
     <div><b>Fonte:</b> (Wikipedia)</div>
 </div>
 <br/>
@@ -418,7 +411,7 @@ Além dessa funcionalidade, o Kurumin ficou famoso por trazer alguns recursos au
 
 <div align="center">
     <p><b>Fígura 16</b> - Kurumin</p>
-    <img src="image-8.png" height=60% width=60%/> 
+    <img src="img/image-8.png" height=60% width=60%/> 
     <div><b>Fonte:</b> (Wikipedia)</div>
 </div>
 <br/>
@@ -665,7 +658,7 @@ A história do celular começa com seu primeiro lançamento em 1973, pelo engenh
 
 <div align="center">
     <p><b>Fígura 17</b> - Celulares</p>
-    <img src="image-9.png" height=60% width=60%/> 
+    <img src="img/image-9.png" height=60% width=60%/> 
     <div><b>Fonte:</b> (Wikipedia)</div>
 </div>
 <br/>
@@ -685,7 +678,7 @@ Foi durante os anos 90 que o tipo de tecnologia moderna de celular que você vê
 
 <div align="center">
     <p><b>Fígura 18</b> - Telefone fixo x celulares</p>
-    <img src="image-10.png" height=60% width=60%/> 
+    <img src="img/image-10.png" height=60% width=60%/> 
     <div><b>Fonte:</b> (Wikipedia)</div>
 </div>
 <br/>
@@ -701,7 +694,7 @@ Nokia apareceu em cena em 1998 com o telefone em barra, o Nokia 6160. Pesando ap
 
 <div align="center">
     <p><b>Fígura 19</b> - Telefone fixo x celulares</p>
-    <img src="image-11.png" height=60% width=60%/> 
+    <img src="img/image-11.png" height=60% width=60%/> 
     <div><b>Fonte:</b> (Wikipedia)</div>
 </div>
 <br/>
@@ -714,7 +707,7 @@ O novo milênio trouxe consigo o surgimento de câmeras integradas, redes 3G/GPR
 
 <div align="center">
     <p><b>Fígura 20</b> - Telefone fixo x celulares</p>
-    <img src="image-12.png" height=60% width=60%/> 
+    <img src="img/image-12.png" height=60% width=60%/> 
     <div><b>Fonte:</b> (Wikipedia)</div>
 </div>
 <br/>
@@ -729,7 +722,7 @@ Em 2002 a Research in Motion (RIM) finalmente deslanchou. O PDA BlackBerry foi o
 
 <div align="center">
     <p><b>Fígura 21</b> - BlackBerry</p>
-    <img src="image-13.png" height=60% width=60%/> 
+    <img src="img/image-13.png" height=60% width=60%/> 
     <div><b>Fonte:</b> (Wikipedia)</div>
 </div>
 <br/>
@@ -745,7 +738,7 @@ Quando a Apple entrou no setor de telefonia celular em 2007, tudo mudou. A marca
 
 <div align="center">
     <p><b>Fígura 22</b> - Iphones</p>
-    <img src="image-14.png" height=60% width=60%/> 
+    <img src="img/image-14.png" height=60% width=60%/> 
     <div><b>Fonte:</b> (Wikipedia)</div>
 </div>
 <br/>
@@ -757,7 +750,7 @@ Abaixo os 12 ítens que os celulares substituíram
 
 <div align="center">
     <p><b>Fígura 23</b> - Iphones</p>
-    <img src="image-21.png" height=60% width=60%/> 
+    <img src="img/image-21.png" height=60% width=60%/> 
     <div><b>Fonte:</b> (Wikipedia)</div>
 </div>
 <br/>
