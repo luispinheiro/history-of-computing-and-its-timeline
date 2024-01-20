@@ -15,28 +15,28 @@ Máquinas de Cálculo Mecânicas (séculos XVII-XIX). Blaise Pascal (1642) e Got
 
 <div align="center">
     <p><b>Fígura 2</b> - Máquinas de Cálculo Mecânicas de Blaise Pascal</p>
-    <img src="image-16.png"/> 
+    <img src="image-16.png" height=70% width=70%/> 
     <div><b>Fonte:</b> ( Gugik, Gabriel - 2019)</div>
 </div>
 <br/>
 
 <div align="center">
     <p><b>Fígura 3</b> - Máquinas de Cálculo Mecânicas de Leibniz</p>
-    <img src="image-17.png"/> 
+    <img src="image-17.png"  height=70% width=70%/> 
     <div><b>Fonte:</b> ( Gugik, Gabriel - 2019)</div>
 </div>
 <br/>
 
 <div align="center">
     <p><b>Fígura 4</b> - Tabuladora  de Herman Hollerith</p>
-    <img src="image-19.png"/> 
-    <div><b>Fonte:</b> ( Gugik, Gabriel - 2019)</div>
+    <img src="image-19.png"  height=70% width=70%/> 
+    <div><b>Fonte:</b> (Richards, Mark)</div>
 </div>
 <br/>
 
 <div align="center">
     <p><b>Fígura 5</b> - Máquinas analítica de Charles Babbage</p>
-    <img src="image-18.png"/> 
+    <img src="image-18.png"  height=70% width=70%/> 
     <div><b>Fonte:</b> ( Gugik, Gabriel - 2019)</div>
 </div>
 <br/>
@@ -65,14 +65,14 @@ Os computadores gigantes que ocupavam salas inteiras e necessitavam do auxílio 
 
 <div align="center">
     <p><b>Fígura 6</b> - Eniac</p>
-    <img src="image.png" height=90% width=90%/> 
+    <img src="image.png"  height=70% width=70%/> 
     <div><b>Fonte:</b> (Wikipedia)</div>
 </div>
 <br/>
 
 <div align="center">
-    <p><b>Fígura 7</b> - Eniac</p>
-    <img src="image-20.png" height=90% width=90%/> 
+    <p><b>Fígura 7</b> - Eniac sendo programado por mulheres</p>
+    <img src="image-20.png"  height=70% width=70%/> 
     <div><b>Fonte:</b> (Wikipedia)</div>
 </div>
 <br/>
@@ -133,8 +133,8 @@ Código fechado
 Como você bem deve imaginar, desde os tempos mais primórdios a Microsoft trabalha apenas com softwares. No início, a empresa fez uma parceria com a IBM para vender seu sistema junto com os PCs da empresa.
 
 <div align="center">
-    <p><b>Fígura 7</b> - Eniac</p>
-    <img src="image-1.png" height=90% width=90%/> 
+    <p><b>Fígura 8</b> - Eniac</p>
+    <img src="image-1.png"  height=70% width=70%/> 
     <div><b>Fonte:</b> (Wikipedia)</div>
 </div>
 <br/>
@@ -180,8 +180,19 @@ Disponível
 Código fechado
 A Apple estava dominando, mas a Amiga entrou de cabeça nos negócios com seu sistema proprietário. Os computadores com AmigaOS inclusive chegaram ao Brasil. Eles eram equipados com processadores Motorola e eram bem diferentes de tudo o que existia.
 
-![Alt text](image-2.png)
-(Fonte da imagem: Reprodução/AmigaOS)
+<div align="center">
+    <p><b>Fígura 9</b> - MS-DOS / IBM PC DOS</p>
+    <img src="image-1.png"  height=70% width=70%/> 
+    <div><b>Fonte:</b> (Wikipedia)</div>
+</div>
+<br/>
+
+<div align="center">
+    <p><b>Fígura 10</b> - AmigaOS</p>
+    <img src="image-2.png"  height=70% width=70%/> 
+    <div><b>Fonte:</b> (AmigaOS)</div>
+</div>
+<br/>
 
 Mesmo sendo um novato, em suas primeiras versões, o sistema já oferecia interface gráfica. Ele não devia muita coisa para os concorrentes, mas a corrida era difícil na época. Apesar de não ser um estouro de vendas, o AmigaOS existe até hoje e funciona em máquinas com arquitetura PowerPC.
 
@@ -232,8 +243,12 @@ Indisponível
 Código fechado
 Depois que saiu da Apple, Steve Jobs fundou a NeXT. Sua nova empresa desenvolveu o sistema NeXTSTEP, o qual era baseado no Unix e contava com códigos do BSD. O sistema já vinha com interface gráfica, um dock (tal qual o dos futuros sistemas da Apple), widgets 3D, comandos para arrastar itens e ícones totalmente coloridos. Esse foi o começo do OS X.
 
-![Alt text](image-3.png)
-(Fonte da imagem: Reprodução/Wikipedia)
+<div align="center">
+    <p><b>Fígura 11</b> - NeXTSTEP</p>
+    <img src="image-3.png"  height=70% width=70%/> 
+    <div><b>Fonte:</b> (Wikipedia)</div>
+</div>
+<br/>
 
 1990 - Windows 3.0
 Indisponível
@@ -247,8 +262,12 @@ Finalmente, depois de vinte e tantos anos de história, nasceu o Linux. Apesar d
 
 De início, o sistema de Linus Torvalds aproveitou bibliotecas e aplicações do GNU. O curioso desse sistema é que ele não se popularizou como uma plataforma única. Desde o começo, Torvalds distribuiu o Kernel do sistema de forma gratuita, garantindo que diversos outros sistemas pudessem ser desenvolvidos e oferecer novas experiências para os usuários.
 
-![Alt text](image-4.png)
-(Fonte da imagem: Divulgação/Larry Ewing, Simon Budig, Anja Gerwinski)
+<div align="center">
+    <p><b>Fígura 12</b> - Linux</p>
+    <img src="image-4.png"  height=70% width=70%/> 
+    <div><b>Fonte:</b> (Larry Ewing, Simon Budig, Anja Gerwinski)</div>
+</div>
+<br/>
 
 O Linux continua em desenvolvimento constante, sendo que seu núcleo principal é atualizado para englobar novas tecnologias e melhorias. O principal destaque desse software é que ele somente evoluiu e não precisou se preocupar com interface gráfica e outros adicionais. Atualmente, o sistema está na versão 3.11.
 
@@ -310,8 +329,12 @@ Indisponível
 Código fechado
 O Windows 95 foi tão importante que acabou definindo alguns padrões. A forma como o desktop é organizado, a qual ainda é utilizada no Windows 7 e 8, o Menu Iniciar (que só foi removido na última versão do Windows), a barra de tarefas e o Windows Explorer foram novidades que facilitaram a utilização do sistema.
 
-![Alt text](image-5.png)
-(Fonte da imagem: Reprodução/Wikipedia)
+<div align="center">
+    <p><b>Fígura 13</b> - Windows 95</p>
+    <img src="image-5.png"  height=70% width=70%/> 
+    <div><b>Fonte:</b> (Wikipedia)</div>
+</div>
+<br/>
 
 Depois de algumas atualizações, o Windows 95 passou a suportar a leitura de dispositivos USB, o navegador Internet Explorer (que jamais saiu do sistema da Microsoft) e outras funções. Este sistema foi o responsável por tornar o Windows o sistema mais usado do mundo.
 
@@ -339,8 +362,12 @@ Como o próprio nome sugere, a Segunda Edição do Windows 98 veio para corrigir
 Disponível
 Apesar de ser desconhecido por muitos, o Yellow Dog Linux é um sistema de código aberto e livre que continua bem vivo. Essa versão do Pinguim é exclusiva para arquiteturas PowerPC. Ele utiliza boa parte do código do Red Hat e traz alguns softwares instalados por padrão.
 
-![Alt text](image-6.png)
-(Fonte da imagem: Reprodução/Wikipedia)
+<div align="center">
+    <p><b>Fígura 14</b> - Yellow Dog Linux</p>
+    <img src="image-6.png"  height=70% width=70%/> 
+    <div><b>Fonte:</b> (Wikipedia)</div>
+</div>
+<br/>
 
 Devido a sua arquitetura, o sistema precisa usar versões alternativas do Flash e de outros programas. Esse foi também um dos poucos sistemas Linux que funcionava perfeitamente no PlayStation 3. A última versão, lançada em 2012, ainda contava com o Kernel 2.6 do Linux.
 
@@ -363,8 +390,12 @@ Indisponível (suporte acaba a partir de 2014)
 Código fechado
 Devido ao desastre do Windows ME, a Microsoft caprichou no Windows XP. Este foi, provavelmente, o sistema mais usado por todos. Ele teve sua interface completamente remodelada, trouxe uma série de novos recursos para redes, DirectX 8.1, suporte avançado para múltiplos usuários, novos recursos de segurança e muito mais. Esse sistema ganhou muitas atualizações.
 
-![Alt text](image-7.png)
-(Fonte da imagem: Reprodução/Wikipedia)
+<div align="center">
+    <p><b>Fígura 15</b> - Windows XP</p>
+    <img src="image-7.png"  height=70% width=70%/> 
+    <div><b>Fonte:</b> (Wikipedia)</div>
+</div>
+<br/>
 
 2001 - OS X
 Indisponível
@@ -385,8 +416,12 @@ Entre tantas versões de Linux, uma, em específico, recebeu atenção especial 
 
 Além dessa funcionalidade, o Kurumin ficou famoso por trazer alguns recursos automáticos. O sistema contava com o “ClicaAki” (o Painel de Controle do Kurumin), que, na verdade, era uma loja simplificada que baixava e instalava os programas em poucos cliques.
 
-![Alt text](image-8.png)
-(Fonte da imagem: Reprodução/Wikipedia)
+<div align="center">
+    <p><b>Fígura 16</b> - Kurumin</p>
+    <img src="image-8.png"  height=70% width=70%/> 
+    <div><b>Fonte:</b> (Wikipedia)</div>
+</div>
+<br/>
 
 Infelizmente, o Kurumin foi descontinuado em 2009. A última versão do sistema foi a NG 8, a qual era baseada no Ubuntu 8. Este foi um sistema que vai deixar saudades.
 
@@ -428,6 +463,7 @@ A grande revolução no mercado de celular ocorreu quando a Apple lançou o famo
 SPARC, IA-32, x86, x64, PowerPC, System z on z/VM e ARM
 Descontinuado
 Código aberto e gratuito
+
 2008 - Android
 ARM, x86, MIPS e i.MX
 Disponível
@@ -627,7 +663,12 @@ Em resumo, o Vale do Silício é uma região emblemática que desempenha um pape
 
 A história do celular começa com seu primeiro lançamento em 1973, pelo engenheiro eletrônico Martin Cooper. Nos primeiros anos, os equipamentos pesavam muito e eram enormes, além de custarem gritantes US$ 4 mil. Hoje em dia, praticamente qualquer um pode ter um aparelho de baixo custo, pesando menos de 0,5 kg e menor do que a mão. Acompanhe com o TechTudo a história dos telefones celulares.
 
-![Alt text](image-9.png)
+<div align="center">
+    <p><b>Fígura 17</b> - Celulares</p>
+    <img src="image-9.png"  height=70% width=70%/> 
+    <div><b>Fonte:</b> (Wikipedia)</div>
+</div>
+<br/>
 
 Anos 80: os primeiros anos
 O ex-empregado da Motorola Martin Cooper apresentou ao mundo o primeiro celular, o Motorola DynaTAC, em 3 de abril de 1974 (cerca de um ano após a sua criação). De pé, perto do hotel New York Hilton, ele fixou uma estação base no outro lado da rua. O feito funcionou, mas apenas quase uma década depois o telefone particular finalmente chegou a público.
@@ -642,7 +683,12 @@ Seis anos após o DynaTAC aparecer, a Motorola deu mais um passo, apresentando o
 Anos 90
 Foi durante os anos 90 que o tipo de tecnologia moderna de celular que você vê todos os dias começou a se formar. As primeiras mensagens de texto, processadores de sinais digitais e de alta tecnologia (redes iDEN, CDMA, GSM) brotaram durante este período tumultuoso.
 
-![Alt text](image-10.png)
+<div align="center">
+    <p><b>Fígura 18</b> - Telefone fixo x celulares</p>
+    <img src="image-10.png"  height=70% width=70%/> 
+    <div><b>Fonte:</b> (Wikipedia)</div>
+</div>
+<br/>
 
 1993: primeiro telefone PDA
 Em 1993, a IBM e a BellSouth se uniram para lançar o Comunicador Pessoal Simon, o primeiro telemóvel a incluir funcionalidades de PDA. Não só poderia enviar e receber chamadas de voz, mas também servia como um livro de endereços, calculadora, pager e fax. Além disso, ele ofereceu pela primeira vez o touchscreen, que permitia que clientes usassem os dedos ou uma caneta para fazer chamadas e criar notas.
@@ -653,7 +699,12 @@ Meia década após o lançamento do MicroTAC, a Motorola lançou uma atualizaç�
 1998: primeiro telefone em barra
 Nokia apareceu em cena em 1998 com o telefone em barra, o Nokia 6160. Pesando apenas 160 gramas, o dispositivo ostentava um display monocromático, antena externa e uma bateria recarregável com um tempo de conversação de 3,3 horas. Por causa de seu preço e facilidade de uso, o Nokia 6160 acabou se tornando dispositivo mais vendido da Nokia da década de 90.
 
-![Alt text](image-11.png)
+<div align="center">
+    <p><b>Fígura 19</b> - Telefone fixo x celulares</p>
+    <img src="image-11.png"  height=70% width=70%/> 
+    <div><b>Fonte:</b> (Wikipedia)</div>
+</div>
+<br/>
 
 1999: precursor do smartphone BlackBerry
 O primeiro dispositivo celular BlackBerry apareceu no final dos anos 90 como um Pager bidirecional. Ele apresentava um teclado QWERTY completo e poderia ser usado para transmitir mensagens SMS, e-mails e páginas. Além disso, ele ofereceu um display de 8 linhas, um calendário e um organizador. Devido a uma falta de interesse em dispositivos móveis de e-mail no momento, o aparelho foi usado tão somente por aqueles indivíduos que trabalhavam na indústria corporativa.
@@ -661,7 +712,12 @@ O primeiro dispositivo celular BlackBerry apareceu no final dos anos 90 como um 
 Anos 2000: a era smartphone
 O novo milênio trouxe consigo o surgimento de câmeras integradas, redes 3G/GPRS/EDGE e smartphones, bem como a divulgação final da rede celular analógica em favor do trabalho em rede digital.
 
-![Alt text](image-12.png)
+<div align="center">
+    <p><b>Fígura 20</b> - Telefone fixo x celulares</p>
+    <img src="image-12.png"  height=70% width=70%/> 
+    <div><b>Fonte:</b> (Wikipedia)</div>
+</div>
+<br/>
 
 Com intuito de otimizar o tempo e trazer mais facilidades ao dia a dia, o smartphone se tornou indispensável, pois tornou possível navegar na Internet, ler e editar arquivos de textos, planilhas e acessar seus e-mails rapidamente.
 
@@ -671,7 +727,12 @@ O T36 Ericsson introduziu a tecnologia Bluetooth para o mundo celular, permitind
 2002: primeiro smartphone BlackBerry
 Em 2002 a Research in Motion (RIM) finalmente deslanchou. O PDA BlackBerry foi o primeiro a apresentar conectividade celular. Operando ao longo de uma rede GSM, o BlackBerry 5810 permitiu aos usuários enviar e-mails, organizar seus dados e preparar memorandos. Infelizmente, faltou nele um alto-falante e um microfone, ou seja, seus usuários eram obrigados a usar um fone de ouvido com um microfone acoplado.
 
-![Alt text](image-13.png)
+<div align="center">
+    <p><b>Fígura 21</b> - BlackBerry</p>
+    <img src="image-13.png"  height=70% width=70%/> 
+    <div><b>Fonte:</b> (Wikipedia)</div>
+</div>
+<br/>
 
 2002: primeiro celular com câmera
 A Sanyo SCP-5300 eliminou a necessidade de comprar uma câmera, pois foi o primeiro aparelho celular a incluir uma câmera integrada com um botão dedicado ao snapshot. Infelizmente, foi limitado a uma resolução de 640×480, zoom digital de 4x e 3 m de alcance. Independente disso, os usuários do telefone podiam tirar fotos em movimento e depois enviá-las para o seu PC utilizando uma suíte de software.
@@ -682,15 +743,42 @@ Antes do lançamento do Motorola RAZR V3 em 2004, os telefones tendiam a serem g
 2007: Apple iPhone
 Quando a Apple entrou no setor de telefonia celular em 2007, tudo mudou. A marca substituiu o teclado convencional por um teclado touchscreen multi-touch que permitia que os clientes se sentissem como se estivessem fisicamente manipulando as ferramentas do celular com os dedos: clicar em links, alongar/encolher fotos e folhear álbuns. Além disso, ela trouxe a primeira plataforma cheia de recursos para telefones celulares. Era como se eles pegassem um sistema operacional de um computador e colocassem em um minúsculo telefone.
 
-![Alt text](image-14.png)
+<div align="center">
+    <p><b>Fígura 22</b> - Iphones</p>
+    <img src="image-14.png"  height=70% width=70%/> 
+    <div><b>Fonte:</b> (Wikipedia)</div>
+</div>
+<br/>
 
 2012 até atualmente
 Poucos anos se passaram desde a virada da década e a tecnologia de telefonia celular só aumenta. A tecnologia 5G está em ascensão, o iPhone já passou de sua décima geração e os smartphones mais tecnológicos podem gravar vídeos FullHD, reproduzir filmes completos e servir como um hotspot móvel para outros dispositivos. Se em tão pouco tempo o celular evoluiu tanto, imaginem quantas ferramentas estarão disponíveis para os smartphones do futuro.
+
+Abaixo os 12 ítens que os celulares substituíram
+
+<div align="center">
+    <p><b>Fígura 23</b> - Iphones</p>
+    <img src="image-21.png"  height=70% width=70%/> 
+    <div><b>Fonte:</b> (Wikipedia)</div>
+</div>
+<br/>
+ ![Alt text](image-21.png)
 
 ## BIBLIOGRAFIA
 
 https://www.tecmundo.com.br/linux/2031-a-historia-dos-sistemas-operacionais.htm
 
 https://www.techtudo.com.br/noticias/2022/09/conheca-a-historia-do-celular-e-sua-evolucao-com-o-passar-dos-anos.ghtml
+
+https://www.factu.com.br/post/12-itens-que-os-smartphones-substituiram
+
+https://www.todamateria.com.br/historia-e-evolucao-dos-computadores/
+
+https://www.slideshare.net/roneysousaweb/aula-01-curso-de-suporte-tcnico-ipd-professor-roney-sousa
+
+https://emgetis.se.gov.br/a-historia-dos-computadores-e-da-computacao/
+
+https://www.calculatinginstruments.com/1-mec%C3%A1nicas-mechanical/
+
+https://www.sutori.com/en/story/historia-de-los-ordenadores--2yeekGP5chHrrAd6EYcNW5VV
 
 Alguns temas pesquisados foram fornecidos pelo ChatGPT.
